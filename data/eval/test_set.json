@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q001",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation'?",
+    "ground_truth": "Abstract Large language models (LLMs) increasingly support reasoning, question answering, decision support, and retrieval-augmented knowledge work.",
+    "ground_truth_doc_ids": [
+      "doi:10.21203/rs.3.rs-9882260/v1"
+    ]
+  },
+  {
+    "id": "q002",
+    "question_type": "authors",
+    "question": "Who authored 'Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation'?",
+    "ground_truth": "Haopeng Yang",
+    "ground_truth_doc_ids": [
+      "doi:10.54254/2753-8818/2026.dl34055"
+    ]
+  },
+  {
+    "id": "q003",
+    "question_type": "date",
+    "question": "When was 'Hybrid Graph Neural Network and Large Language Model Framework for Robust Knowledge Graph Question Answering via Retrieval-Augmented Generation' published?",
+    "ground_truth": "2026-05-31",
+    "ground_truth_doc_ids": [
+      "doi:10.22214/ijraset.2026.82233"
+    ]
+  },
+  {
+    "id": "q004",
+    "question_type": "categories",
+    "question": "What categories are listed for 'AI-Powered Smart Advisory System for Precision Agriculture Using Large Language Models and Retrieval-Augmented Generation'?",
+    "ground_truth": "Uncategorized",
+    "ground_truth_doc_ids": [
+      "doi:10.2139/ssrn.6761739"
+    ]
+  },
+  {
+    "id": "q005",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Industrial Multi-AI Agent Collaborative System based on Large-Small Model Fusion and Retrieval-Augmented Generation'?",
+    "ground_truth": "With the rapid advancement of intelligent manufacturing, industrial systems generate vast amounts of unstructured data, yet face significant challenges in data utilization, knowledge retrieval accuracy, decision-making efficiency, and human-machine collaboration.",
+    "ground_truth_doc_ids": [
+      "doi:10.2139/ssrn.6756498"
+    ]
+  },
+  {
+    "id": "q006",
+    "question_type": "authors",
+    "question": "Who authored 'A Survey of Agentic GraphRAG: From Retrieval-augmented Generation to Graph-native Agents'?",
+    "ground_truth": "Zihan Chen, Lei Zheng, Di Zhu",
+    "ground_truth_doc_ids": [
+      "doi:10.2139/ssrn.6713979"
+    ]
+  },
+  {
+    "id": "q007",
+    "question_type": "date",
+    "question": "When was 'Patch-Aware Retrieval-Augmented Generation for Large Language Model Decision Support in Transportation Infrastructure Delivery' published?",
+    "ground_truth": "2026-05-10",
+    "ground_truth_doc_ids": [
+      "doi:10.2139/ssrn.6741395"
+    ]
+  },
+  {
+    "id": "q008",
+    "question_type": "categories",
+    "question": "What categories are listed for '0346 Retrieval Augmented Generation Improves Large Language Model Performance in Sleep Medicine'?",
+    "ground_truth": "Uncategorized",
+    "ground_truth_doc_ids": [
+      "doi:10.1093/sleep/zsag091.0346"
+    ]
+  }
+]

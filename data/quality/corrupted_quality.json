@@ -1,0 +1,40 @@
+{
+  "report_name": "corrupted_quality",
+  "total_rows": 23,
+  "passed_checks": 3,
+  "failed_checks": 3,
+  "success": false,
+  "checks": [
+    {
+      "name": "row_count_at_least_3",
+      "passed": true,
+      "observed": 23
+    },
+    {
+      "name": "paper_id_not_null",
+      "passed": true,
+      "observed": 0
+    },
+    {
+      "name": "paper_id_unique",
+      "passed": false,
+      "observed": 2
+    },
+    {
+      "name": "title_not_blank",
+      "passed": true,
+      "observed": 0
+    },
+    {
+      "name": "summary_min_40_chars",
+      "passed": false,
+      "observed": 1
+    },
+    {
+      "name": "freshness_threshold",
+      "passed": false,
+      "observed": 5,
+      "threshold_days": 180
+    }
+  ]
+}

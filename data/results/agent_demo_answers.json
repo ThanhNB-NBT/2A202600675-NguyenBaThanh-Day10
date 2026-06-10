@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is the main summary of 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation'?",
+    "answer": "Abstract Large language models (LLMs) increasingly support reasoning, question answering, decision support, and retrieval-augmented knowledge work.",
+    "retrieved_doc_ids": [
+      "doi:10.21203/rs.3.rs-9882260/v1",
+      "doi:10.54254/2753-8818/2026.dl34055",
+      "doi:10.4018/979-8-3373-5017-2.ch003",
+      "doi:10.70121/001c.158711"
+    ],
+    "retrieved_titles": [
+      "Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation",
+      "Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation",
+      "Retrieval-Augmented Generation With Large Language Models",
+      "The Role of Retrieval-Augmented Generation in Improving Factual Accuracy for Medical Large Language Models"
+    ]
+  },
+  {
+    "question": "Who authored 'Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation'?",
+    "answer": "Haopeng Yang",
+    "retrieved_doc_ids": [
+      "doi:10.54254/2753-8818/2026.dl34055",
+      "doi:10.2139/ssrn.6713979",
+      "doi:10.1093/sleep/zsag091.0346",
+      "doi:10.70121/001c.158711"
+    ],
+    "retrieved_titles": [
+      "Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation",
+      "A Survey of Agentic GraphRAG: From Retrieval-augmented Generation to Graph-native Agents",
+      "0346 Retrieval Augmented Generation Improves Large Language Model Performance in Sleep Medicine",
+      "The Role of Retrieval-Augmented Generation in Improving Factual Accuracy for Medical Large Language Models"
+    ]
+  },
+  {
+    "question": "When was 'Hybrid Graph Neural Network and Large Language Model Framework for Robust Knowledge Graph Question Answering via Retrieval-Augmented Generation' published?",
+    "answer": "2026-05-31",
+    "retrieved_doc_ids": [
+      "doi:10.22214/ijraset.2026.82233",
+      "doi:10.3390/app16052244",
+      "doi:10.2139/ssrn.6713979",
+      "doi:10.4018/979-8-3373-5017-2.ch003"
+    ],
+    "retrieved_titles": [
+      "Hybrid Graph Neural Network and Large Language Model Framework for Robust Knowledge Graph Question Answering via Retrieval-Augmented Generation",
+      "Hybrid Retrieval-Augmented Generation: Semantic and Structural Integration for Large Language Model Reasoning",
+      "A Survey of Agentic GraphRAG: From Retrieval-augmented Generation to Graph-native Agents",
+      "Retrieval-Augmented Generation With Large Language Models"
+    ]
+  }
+]
