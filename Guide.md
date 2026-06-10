@@ -37,6 +37,7 @@ pip install -r requirements.txt
 
 ## Bước 3: Load raw data từ source
 
+CROSSREF_API_URL = "https://api.crossref.org/works"
 Cần hoàn thành:
 
 - `src/ingestion/crossref.py`
